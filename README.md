@@ -1,3 +1,5 @@
+https://medium.com/the-dl/easy-self-supervised-learning-with-byol-53b8ad8185d
+
 <div align="center">
 
 ![Logo](docs/source/_images/logos/bolts_logo.png)
